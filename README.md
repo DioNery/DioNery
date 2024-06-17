@@ -43,9 +43,9 @@
     <img align="center" alt="Arduino" src= "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div><br/>
 
-#### Entusiasta com a possibilidade de mudar o mundo por meio da programação e a realidade como enxergamos.
+#### Entusiasta com a possibilidade de mudar o mundo por meio da programação e a realidade como enxergamos. / Enthusiastic about the possibility of changing the world through programming and reality as we see it.
 
-### Informações para Contato:
+### Informações para Contato: / Contact information:
 
 ##### _________________________________________
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() 
