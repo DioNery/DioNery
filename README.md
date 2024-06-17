@@ -10,16 +10,16 @@
     <p style="font-size: smaller;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
-    font-weight: normal;"> En: I'm studying Internet Systems at the Catholic University of Pernambuco. I've just finished my last term.</p>
-      <br/>
-  <p style="font-size: smaller;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: normal;
-    font-weight: normal;"> Pt-Br: Gosto de desenvolver na parte da programação back-end e neste momento a tecnologia que estou estudando é Spring.</p>
+    font-weight: normal;"> Gosto de desenvolver na parte da programação back-end e neste momento a tecnologia que estou estudando é Spring.</p>
+    <br/>
     <p style="font-size: smaller;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
-    font-weight: normal;"> En: I like to develop back-end programming and at the moment the technology I'm studying is Spring.</p>
+    font-weight: normal;"> En: I'm studying Internet Systems at the Catholic University of Pernambuco. I've just finished my last term.</p>
+    <p style="font-size: smaller;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: normal;"> I like to develop back-end programming and at the moment the technology I'm studying is Spring.</p>
 </h6> <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-nery-7952b1229)
