@@ -6,7 +6,11 @@
   <p style="font-size: smaller;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
-    font-weight: normal;">Sou estudante de Sistemas para Internet na Universidade Católica de Pernambuco. E atualmente estou no 3° período.</p>
+    font-weight: normal;"> Pt-Br: Sou estudante de Sistemas para Internet na Universidade Católica de Pernambuco. E atualmente acabei de concluir o último período.</p>
+    <p style="font-size: smaller;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: normal;"> En: I'm studying Internet Systems at the Catholic University of Pernambuco. I've just finished my last term.</p>
   <p style="font-size: smaller;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
