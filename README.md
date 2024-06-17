@@ -34,12 +34,14 @@
     <img align="center" alt="Python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="Spring" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img align="center" alt="Flutter" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img align="center" alt="React" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="C#" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt="Javascript" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="Html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Django" src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img align="center" alt="Postgres" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" alt="Vercel" src= "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
     <img align="center" alt="Unity" src= "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
     <img align="center" alt="Arduino" src= "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div><br/>
