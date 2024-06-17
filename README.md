@@ -7,6 +7,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
     font-weight: normal;"> Pt-Br: Sou estudante de Sistemas para Internet na Universidade Católica de Pernambuco. E atualmente acabei de concluir o último período.</p>
+    <br/>
     <p style="font-size: smaller;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
@@ -14,7 +15,7 @@
   <p style="font-size: smaller;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
-    font-weight: normal;">Gosto de desenvolver na parte da programação back-end e neste momento a tecnologia que estou estudando é Django.</p>
+    font-weight: normal;">Gosto de desenvolver na parte da programação back-end e neste momento a tecnologia que estou estudando é Spring.</p>
 </h6> <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-nery-7952b1229)
