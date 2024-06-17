@@ -7,15 +7,19 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
     font-weight: normal;"> Pt-Br: Sou estudante de Sistemas para Internet na Universidade Católica de Pernambuco. E atualmente acabei de concluir o último período.</p>
-    <br/>
     <p style="font-size: smaller;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
     font-weight: normal;"> En: I'm studying Internet Systems at the Catholic University of Pernambuco. I've just finished my last term.</p>
+      <br/>
   <p style="font-size: smaller;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
-    font-weight: normal;">Gosto de desenvolver na parte da programação back-end e neste momento a tecnologia que estou estudando é Spring.</p>
+    font-weight: normal;"> Pt-Br: Gosto de desenvolver na parte da programação back-end e neste momento a tecnologia que estou estudando é Spring.</p>
+    <p style="font-size: smaller;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: normal;"> En: I like to develop back-end programming and at the moment the technology I'm studying is Spring.</p>
 </h6> <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-nery-7952b1229)
@@ -23,7 +27,7 @@
 
 ![DioNery GitHub stats](https://github-readme-stats.vercel.app/api?username=DioNery&show_icons=true&theme=synthwave)
 
-## Tecnologias conhecidas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>: 
+## Tecnologias conhecidas/Familiar technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>: 
 
 
 <div style="display: inline_block"><br/>
